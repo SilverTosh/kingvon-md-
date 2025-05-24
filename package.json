@@ -1,5 +1,5 @@
 {
-  "name": "Lyla-bot",
+  "name": "kingvon-bot",
   "version": "3.0.0",
   "type": "module",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "NODE_ENV=development nodemon index.js"
   },
   "keywords": [],
-  "author": "Lyla Bot",
+  "author": "kingvon Bot",
   "license": "ISC",
   "description": "Script Base WhatsApp Lyla Bot",
   "devDependencies": {
